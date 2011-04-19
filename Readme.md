@@ -1,0 +1,1 @@
+various capistrano resources I have put together.
